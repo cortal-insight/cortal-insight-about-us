@@ -12,7 +12,7 @@ We're revolutionizing the data landscape for data scientists working with comple
 Hey there! 
 
 * We're a crew of coding enthusiasts who are passionate about the early startup grind
-* * Tackling complex problems? We thrive on it.
+* Tackling complex problems? We thrive on it.
 * We have firsthand experience tackling tricky data problems in ML projects, feeling every bit of frustration along the way. We're on a mission to fix it!
 * That's why we're here—to share our journey, insights, and solutions with you.
 
