@@ -11,10 +11,10 @@ We're revolutionizing the data landscape for data scientists working with comple
 ## Our team
 Hey there! 
 
-⋅⋅* We're a crew of coding enthusiasts who are passionate about the early startup grind
-⋅⋅* Tackling complex problems? We thrive on it.
-⋅⋅* We have firsthand experience tackling tricky data problems in ML projects, feeling every bit of frustration along the way. We're on a mission to fix it!
-⋅⋅* That's why we're here—to share our journey, insights, and solutions with you.
+* We're a crew of coding enthusiasts who are passionate about the early startup grind
+* * Tackling complex problems? We thrive on it.
+* We have firsthand experience tackling tricky data problems in ML projects, feeling every bit of frustration along the way. We're on a mission to fix it!
+* That's why we're here—to share our journey, insights, and solutions with you.
 
 ## Our vision
 We are working on revolutionizing data management to spark innovation and democratize AI technology. We truly beleive in a better future by pushing the boundaries of technology and innovation.
