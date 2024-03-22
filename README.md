@@ -17,7 +17,7 @@ Hey there!
 * That's why we're here—to share our journey, insights, and solutions with you.
 
 ## Our vision
-We are working on revolutionizing data management to spark innovation and democratize AI technology. We truly beleive in a better future by pushing the boundaries of technology and innovation.
+We are working on revolutionizing data management to spark innovation and democratize AI technology. We truly believe in a better future by pushing the boundaries of technology and innovation.
 
 
 ## License
